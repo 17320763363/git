@@ -9,6 +9,8 @@ public class git {
         System.out.println("master test");
         System.out.println("hot-fxt test");
         System.out.println("hot-fxt test2");
+        System.out.println("push test!");
+
 
     }
 }
